@@ -1,0 +1,9 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\bin\Debug\BD_2.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\bin\Debug\BD_2.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\bin\Debug\BD_2.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.Form1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.pdb
