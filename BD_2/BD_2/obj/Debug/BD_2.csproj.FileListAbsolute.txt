@@ -7,3 +7,6 @@ c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.
 c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.csproj.GenerateResource.Cache
 c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.exe
 c:\users\toshiba\documents\visual studio 2015\Projects\BD_2\BD_2\obj\Debug\BD_2.pdb
+C:\Users\Toshiba\Documents\GitHub\prueba1\BD_2\BD_2\bin\Debug\BD_2.exe.config
+C:\Users\Toshiba\Documents\GitHub\prueba1\BD_2\BD_2\obj\Debug\BD_2.exe
+C:\Users\Toshiba\Documents\GitHub\prueba1\BD_2\BD_2\obj\Debug\BD_2.pdb
